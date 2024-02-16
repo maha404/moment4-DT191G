@@ -10,6 +10,7 @@ using playlist.Models;
 
 namespace playlist.Controllers
 {
+    // Rutt för api:t
     [Route("api/[controller]")]
     [ApiController]
     public class CategoryController : ControllerBase
